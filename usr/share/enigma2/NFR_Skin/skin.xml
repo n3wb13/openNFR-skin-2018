@@ -2807,7 +2807,7 @@ self['config'].l.setSeperation(int(300*f))
     <panel name="template_ok_exit_1280" />
     <panel name="template_pig_menu" />
   </screen>
-  <screen name="NumberZap" position="center,center" size="260,80" title="">
+  <screen name="NumberZap" position="center,center" size="260,80" title="Quickzap">
     <eLabel name="a" position="5,5" size="150,70" zPosition="-10" backgroundColor="cyan1" />
     <eLabel name="b" position="155,10" size="100,60" zPosition="-10" backgroundColor="cyan1" />
     <widget name="channel" position="7,7" size="146,66" font="Regular;30" halign="center" valign="bottom" />
