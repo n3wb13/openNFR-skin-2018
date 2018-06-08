@@ -4787,7 +4787,7 @@ self.instance.move(ePoint(int(deskwidth - newwidth)/2,int(deskheight - newheight
 	</applet>
 <ePixmap position="880,390" size="290,290" zPosition="2" pixmap="NFR_Skin/icons/timer.png" transparent="1" alphatest="blend" />
   <panel name="template_fullscreen_1280_title" />
-  <panel name="template_name_red_o_yellow" />
+  <panel name="template_name_red_o_blue" />
   <panel name="template_pig_menu" />
 </screen>
  
